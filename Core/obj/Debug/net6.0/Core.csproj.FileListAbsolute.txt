@@ -1,0 +1,14 @@
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\bin\Debug\net6.0\Core.dll
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\Core.dll
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\burak\source\repos\Hybrid_Multitenancy\Core\obj\Debug\net6.0\ref\Core.dll
